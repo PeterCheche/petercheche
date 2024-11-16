@@ -7,9 +7,11 @@
  </details>
 
  ## Skills
-- **Programming Technologies:** SQL(MySql), Python(Pandas, Numpy, Matplotlib, Scipy)
+- **Programming Technologies:** SQL(MySql), Python(Pandas, Matplotlib, Seaborn)
  
-- **Business Intelligence Tools:** Microsoft Excel, Microsoft PowerBI 
+- **Business Intelligence Tools:** Microsoft Excel, Microsoft PowerBI
+  
+- **Machine Learning:** Linear Regression, Logistic Regression, K_Nearest Neighbours, Support Vector Machine, NLTK, Hierarchical clustering, K-Means Clustering, 
 
 
  ## Projects
