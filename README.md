@@ -6,13 +6,13 @@
   </p>
  </details>
 
- ## ⚒️ Skills
+ ## Skills
 - **Programming Technologies:** SQL(MySql), Python(Pandas, Numpy, Matplotlib, Scipy)
  
 - **Business Intelligence Tools:** Microsoft Excel, Microsoft PowerBI 
 
 
- ## 📚Projects
+ ## Projects
 
 ### Forage Job Simulations 
  <details>
