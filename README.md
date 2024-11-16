@@ -21,7 +21,7 @@
    <summary> Click to view
    </summary>
   <ul>
-    <li><a href ="https://github.com/JachimmaChristian/Forage-Accenture-Internship?tab=readme-ov-file"> Accenture - North America, Virtual Job Simulation
+    <li><a href ="https://github.com/PeterCheche/British-Airways-Analysis-Forage">Sentiment Analysis and Booking Prediction of British Airways
     </a>  
     </li>
   </ul>
