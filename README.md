@@ -36,12 +36,6 @@
     <ul>
     <li><a href= "https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python"> Product Sales Analysis
    </a></li>
-    <li><a href= "https://github.com/JachimmaChristian/Climate-change-and-impacts-in-Africa">Climate Change and Impacts in Africa
-   </a></li>
-    <li><a href= "https://github.com/JachimmaChristian/Web_Scrapping_With_Python"> Web Scrapping With (Beautiful Soup)
-   </a></li>
-    <li><a href= "https://github.com/JachimmaChristian/Exploring-NYC-Public-School-Test-Results-Scores-Python/blob/main/notebook.ipynb"> Exploring NYC Public School Test Results Scores
-   </a></li>
     </ul>
  </details>
  
@@ -52,12 +46,6 @@
    <ul> 
     <li><a href= "https://github.com/JachimmaChristian/Analyzing-Healthcare-Data-in-PowerBI"> Analyzing Healthcare Data in PowerBI
    </a></li>
-     <li><a href= "https://github.com/JachimmaChristian/Supply-Chain-Analytics-Model-in-PowerBI"> Supply Chain Analytics Model
-   </a></li>
-      <li><a href= "https://github.com/JachimmaChristian/Food-Claims-Analysis-With-PowerBI"> Food Claims Analysis
-   </a></li>
-      <li><a href= "https://drive.google.com/drive/folders/1w2sahixR7xNoGrV3IV0ru-bNK7s2Ygox?usp=drive_link"> Other PowerBI Dashboards
-      </a></li>
    </ul> 
  </details>
 
