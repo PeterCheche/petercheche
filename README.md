@@ -16,7 +16,7 @@
 
  ## Projects
 
-### Forage Job Simulations 
+### Excel Projects
  <details>
    <summary> Click to view
    </summary>
