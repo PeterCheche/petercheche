@@ -29,7 +29,7 @@
   
  </details>
  
-  ### Python
+  ### MS POwerBI
   <details>
    <summary> Click to view
    </summary>
@@ -39,7 +39,7 @@
     </ul>
  </details>
  
- ### MS PowerBI
+ ### Python
  <details>
    <summary> Click to view
    </summary>
