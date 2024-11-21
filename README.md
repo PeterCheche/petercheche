@@ -29,7 +29,7 @@
   
  </details>
  
-  ### MS POwerBI
+  ### MS PowerBI
   <details>
    <summary> Click to view
    </summary>
