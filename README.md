@@ -14,40 +14,6 @@
 - **Machine Learning:** Linear Regression, Logistic Regression, K_Nearest Neighbours, Support Vector Machine, NLTK, Hierarchical clustering, K-Means Clustering, 
 
 
- ## Projects
-
-### Excel Projects
- <details>
-   <summary> Click to view
-   </summary>
-  <ul>
-    <li><a href ="https://github.com/PeterCheche/British-Airways-Analysis-Forage">Sentiment Analysis and Booking Prediction of British Airways
-    </a>  
-    </li>
-  </ul>
-  </details>
-  
- </details>
- 
-  ### MS PowerBI
-  <details>
-   <summary> Click to view
-   </summary>
-    <ul>
-    <li><a href= "https://github.com/JachimmaChristian/Product-Sales-Analysis-with-Python"> Product Sales Analysis
-   </a></li>
-    </ul>
- </details>
- 
- ### Python
- <details>
-   <summary> Click to view
-   </summary>
-   <ul> 
-    <li><a href= "https://github.com/JachimmaChristian/Analyzing-Healthcare-Data-in-PowerBI"> Analyzing Healthcare Data in PowerBI
-   </a></li>
-   </ul> 
- </details>
 
  ## 📬Connect with Me
 
