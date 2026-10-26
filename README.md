@@ -27,7 +27,7 @@
 |---|---|---|---|
 | Disbursement Engine | 2025 | Java, Spring Boot | 1,000+ transfers per batch, 93% reliability improvement |
 | Super App Middleware & Reporting | 2025 | Python, FastAPI | Automated accounting and financial reporting pipelines |
-| Staff & Student Web Application | 2022 – 2024 | Web | Centralized school information, results, and resources for daily operations |
+| Staff & Student Web Application | 2022 – 2024 | Python, FastAPI | Centralized school information, results, and resources for daily operations |
 
 ## 🎓 Education & Certifications
 - B.Sc. Mathematics, Michael Okpara University of Agriculture, Umudike (2021)
