@@ -25,7 +25,7 @@
 ## 🚀 Selected Projects
 | Project | Year | Stack | Highlights |
 |---|---|---|---|
-| Collection Point | 2026 | Python and Java | Multiple collection platform built for analytics overview and as a reconciliation solution to collector recieving multiple payment |
+| Collection Point (Personal) | 2026 | Python and Java | Multiple collection platform built for analytics overview and as a reconciliation solution to collector recieving multiple payment |
 | Monitoring Service | 2025 | Python, FastAPI | Platform for monitoring transaction information used by several teams for customer support, settlement and operations |
 | Disbursement Engine | 2025 | Java, Spring Boot | 1,000+ transfers per batch, 93% reliability improvement |
 | Super App Middleware & Reporting | 2025 | Python, FastAPI | Automated accounting and financial reporting pipelines |
